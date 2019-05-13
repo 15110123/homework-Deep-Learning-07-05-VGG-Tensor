@@ -1,6 +1,6 @@
 ﻿# homework-Deep-Learning-07-05-VGG-Tensor
 
-Demo mô hình VGG16 học CIFAR10, nhận diện ảnh mẫu là một con chồn. 
+Demo mô hình VGG16 học ImageNet, nhận diện ảnh mẫu là một con chồn. 
 
 Kết quả: 
 
